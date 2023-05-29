@@ -3,7 +3,7 @@ This is my commercial project for a company owner. Site created with bootstrap.
 
 # Check it!
 
-https://kvbidsg.github.io/Center-Bud-website/
+https://kvbigrd.github.io/Center-Bud-website/
 
 # Desktop preview
 
